@@ -29,7 +29,7 @@ platform :ios, '9.0'
 use_frameworks!
 
 target '<Your Target Name>' do
-    pod 'GBKTextField', :git => 'git@github.com:gbksoft/MaterialTextField-ios.git'
+    pod 'GBKTextField'
 end
 ```
 
